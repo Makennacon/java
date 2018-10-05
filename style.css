@@ -1,0 +1,39 @@
+
+<style>
+
+body{
+  font-family: 'Oswald', sans-serif;
+  vertical-align: middle;
+}
+<style>
+#example1 {
+    border: 10px dotted black;
+    padding: 15px;
+    background: lightblue;
+    background-clip: border-box;
+}
+}
+img{
+  height: 300px;
+  width: 300px;
+  float: right;
+  position fixed;
+  margin-right: 20vw;
+}
+
+<nav class="w3-bar w3-black">
+  <a href="#home" class="w3-button w3-bar-item">Hi</a>
+  <a href="#band" class="w3-button w3-bar-item">click</a>
+  <a href="#tour" class="w3-button w3-bar-item">me</a>
+  <a href="#contact" class="w3-button w3-bar-item">home</a>
+</nav>
+body {
+    background: #ffffff url("back.jpg") no-repeat right top;
+    <style>
+#example1 {
+    border: 10px dotted black;
+    padding: 15px;
+    background: lightblue;
+    background-clip: border-box;
+}
+}
